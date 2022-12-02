@@ -22,6 +22,3 @@ The pretraining is unsupervised, so labels are not needed for it. For the finetu
 - https://www.kaggle.com/code/rhtsingh/commonlit-readability-prize-roberta-torch-itpt
 - https://www.kaggle.com/code/rhtsingh/utilizing-transformer-representations-efficiently
 
-
-## Contact
-ida.m.toivanen(at)jyu.fi
