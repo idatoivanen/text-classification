@@ -25,7 +25,7 @@ The pretraining is unsupervised, so labels are not needed for it. For the finetu
   - enabling the use of multiple GPUs,
   - enabling the use of different backbones,
   - better model parameter logging,
-  - script (.py) version for running with command line,
+  - script (.py) version for running code with command line,
   - etc.
 
 ## References
