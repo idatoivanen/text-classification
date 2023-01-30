@@ -19,12 +19,13 @@ The pretraining is unsupervised, so labels are not needed for it. For the finetu
 
 ## Things to note
 - This repository was released as part of FIN-CLARIAH infrastructure project. Thus, this notebook can also be found [here](https://github.com/DARIAH-FI-Survey-Concept-Network). 
-- There will be soon updates, like
+- There will soon be updates in this repository, like
   - better documentation,
   - the notebooks fitted to an open data sets,
   - enabling the use of multiple GPUs,
   - enabling the use of different backbones,
   - better model parameter logging,
+  - script (.py) version for running with command line,
   - etc.
 
 ## References
