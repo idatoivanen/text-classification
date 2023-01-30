@@ -18,7 +18,7 @@ The pretraining is unsupervised, so labels are not needed for it. For the finetu
 - Transformers 4.16.2
 
 ## Things to note
-- This repository can also be found [here](https://github.com/DARIAH-FI-Survey-Concept-Network). 
+- This repository was released as part of FIN-CLARIAH infrastructure project. Thus, this notebook can also be found [here](https://github.com/DARIAH-FI-Survey-Concept-Network). 
 - There will be soon updates, e.g., more documentation and the notebooks fitted to an open data set.
 
 ## References
