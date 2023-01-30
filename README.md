@@ -19,7 +19,13 @@ The pretraining is unsupervised, so labels are not needed for it. For the finetu
 
 ## Things to note
 - This repository was released as part of FIN-CLARIAH infrastructure project. Thus, this notebook can also be found [here](https://github.com/DARIAH-FI-Survey-Concept-Network). 
-- There will be soon updates, e.g., more documentation and the notebooks fitted to an open data set.
+- There will be soon updates, like
+  - better documentation,
+  - the notebooks fitted to an open data sets,
+  - enabling the use of multiple GPUs,
+  - enabling the use of different backbones,
+  - better model parameter logging,
+  - etc.
 
 ## References
 - https://github.com/huggingface/transformers/blob/master/examples/pytorch/language-modeling/run_mlm_no_trainer.py
