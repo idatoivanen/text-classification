@@ -1,6 +1,10 @@
 
 # Text classification for Finnish text data
 
+## Things to note
+- This repository is the same as in [here](https://github.com/DARIAH-FI-Survey-Concept-Network). 
+- There will be soon updates, e.g., more documentation and the notebooks fitted to an open data set.
+
 For running a BERT based model for a text classification (e.g. sentiment analysis) task. In order to run the notebooks, you would need enough Finnish text data at hand (at least thousands of samples, preferably more). 
 
 This repository contains the following notebooks:
