@@ -22,11 +22,7 @@ The pretraining is unsupervised, so labels are not needed for it. For the finetu
 - There will soon be updates in this repository, like
   - better documentation,
   - the notebooks fitted to an open data set,
-  - enabling the use of multiple GPUs,
-  - enabling the use of different backbones,
-  - better model parameter logging,
-  - script (.py) version for running code with command line,
-  - etc.
+  - finetuning code (model parameter logging etc.)
 
 ## References
 - https://github.com/huggingface/transformers/blob/master/examples/pytorch/language-modeling/run_mlm_no_trainer.py
